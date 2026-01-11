@@ -26,4 +26,4 @@ Thumbs.db
 # Project specific
 *.log
 .env
-.COMPLETION_SUMMARY.md
+COMPLETION_SUMMARY.md
