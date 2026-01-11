@@ -8,6 +8,9 @@ A modern, distributed vehicle architecture simulation built entirely in Python. 
 [ECUs] → [Zone Controllers] → [Central Compute] → [REST API]
 ```
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/40a09ee1-cc34-4362-b841-fc1de3cbf460" />
+
+
 ### Components
 
 - **ECUs (Engine Control Units)**: Simulated devices that generate sensor data
